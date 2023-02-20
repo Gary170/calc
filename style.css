@@ -1,0 +1,30 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+ul {
+  margin-top: 10px;
+}
+
+li {
+  margin-top: 5px;
+}
